@@ -1,8 +1,7 @@
+name: NEXclusive
+favicon: null
 layout_spectrum: 0.4451206214725971
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.4925398910418153
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.4136881125159562
-  brandStrength: 0.5255319
-  lightness: 0.2501602889969945
-  brandColors:
-    - '#FBFBFB'
-    - '#9A9A9A'
-    - '#010101'
-    - '#393939'
-    - '#533FAB'
-  rhythmicContrast: 0.7377951750531793
-typography_spectrum: 0.4925398910418153
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: NEXclusive
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#715e9a'
+    - '#dae0df'
+    - '#271f1a'
+    - '#be9b83'
+  brandStrength: 1
+  lightness: 0.2501602889969945
+  saturation: 0.25
+  rhythmicContrast: 0.7377951750531793
+purpose: []
